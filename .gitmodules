@@ -1,0 +1,3 @@
+[submodule "tenma-serial"]
+	path = tenma-serial
+	url = git@github.com:kxtells/tenma-serial.git
